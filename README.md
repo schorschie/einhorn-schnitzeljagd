@@ -4,6 +4,8 @@ Eine Schnitzeljagd zum Thema Einhorn zum fünften Geburtstag meiner Tochter.
 
 ## Stationen
 
+![Karte vom Stadtoval in Aalen](karte.png)
+
 * **Start:** Zuhause in der Hausnummer 10 ("H10")
 * **Station 1:** Popo-Skulptur ("Radschläger")
 * **Station 2:** Bach mit Steg ("Wasser")
@@ -12,13 +14,111 @@ Eine Schnitzeljagd zum Thema Einhorn zum fünften Geburtstag meiner Tochter.
 * **Station 5:** Cafe mit Flügel ("Samocca")
 * **Ziel:** Eisenbahnskulptur ("Säule")
 
-### Entfernungen
+## 🦄 Aufgaben der Einhorn-Schnitzeljagd
 
-![Karte vom Stadtoval in Aalen](karte.png)
+### 🔍 Start: Hausnummer 10
 
-## Aufgaben
+**Erzählertext:**  
+Heute früh hat Luna Glitzerhuf geweint. Die Regenbogen am Himmel waren ganz
+schief! Luna hat ihre Regenbogenbiegezange verloren. Aber sie weiß nicht mehr,
+wo. Sie ist gestern spazieren gegangen und hat unterwegs viele bunte Dinge
+angeschaut. Jetzt braucht sie eure Hilfe! Flitzi, der Regenbogenfuchs, hat sich
+heimlich an Lunas Fersen geheftet – und euch Hinweise hinterlassen!
+
+**Aufgabe:**  
+Die Kinder finden die erste Regenbogenkarte mit einem großen Einhorn-Aufkleber
+und buntem Glitzerband. Auf der Rückseite ist ein Foto des nächsten Orts (die
+Popo-Skulptur) als Hinweis.
+
+### 🐾 Station 1: Radschläger
+
+**Erzählertext:**  
+Flitzi schreibt: "Luna hat hier stehen bleiben müssen, weil sie so lachen
+musste! Aber sie hat dabei ihre Glitzerblume verloren."
+
+**Aufgabe:**  
+In einem kleinen Beutel oder Umschlag finden die Kinder eine Glitzerblume und
+ein Puzzlestück mit einem Teil eines Regenbogens.  
+→ Danach bekommen sie ein neues Foto vom nächsten Ort: der Bach mit dem Steg.
+
+---
+
+### 🌈 Station 2: Bach mit Steg
+
+**Erzählertext:**  
+Flitzi schreibt: "Hier hat Luna ein Bad genommen! Vielleicht ist ihr da etwas
+ins Wasser gefallen?"
+
+**Aufgabe:**  
+Eine laminierte Karte oder ein kleines wasserdichtes Döschen ist mit einer
+bunten Schnur unter dem Steg befestigt (sichtbar, aber nicht zu leicht
+erreichbar).  
+Darin: Ein weiteres Puzzlestück.  
+→ Als nächstes zeigt ein Bild den Spielturm mit Rutsche.
+
+### 🛝 Station 3: Spielturm mit Rutsche
+
+**Erzählertext:**  
+Flitzi schreibt: "Luna ist hier so schnell gerutscht, dass sie fast geflogen
+wäre! Sie hat dabei ihre Regenbogen-Seifenblasen verloren!"
+
+**Aufgabe:**  
+Ein kleines Fläschchen mit Seifenblasen (und Puzzlestück) ist versteckt oder in
+Sichtweite.  
+Optional: Die Kinder müssen erst gemeinsam 10 Seifenblasen pusten, bevor sie
+weitergehen dürfen.  
+→ Hinweisbild zum Wespennest.
+
+### 🐝 Station 4: Wespennest
+
+**Erzählertext:**  
+Flitzi schreibt: "Hier war Luna sehr mutig! Sie hat Wespen gesehen – und ihre
+Glitzerschuhe beim Wegrennen im Sand verloren!"
+
+**Aufgabe:**  
+Ein kleines Säckchen mit Schuh-Aufklebern oder kleinen Spielzeugschuhen (und
+Puzzlestück) ist eingegraben oder unter Sand versteckt -- mit einem bunten
+Fähnchen markiert.  
+→ Hinweisbild zum Café mit Flügel.
+
+### 🎹 Station 5: Café mit Flügel
+
+**Erzählertext:**  
+Flitzi schreibt: "Luna hat hier ein Lied auf dem Flügel gehört -- sie hat sogar
+getanzt! Aber sie hat dabei ihre Regenbogen-Spange verloren."
+
+**Aufgabe:**  
+Hier ist eine Musik-Aufgabe:  
+
+* Die Kinder müssen ein Bild einem passenden Ton zuordnen.  
+* Oder: Sie hören eine kleine Melodie (vorab aufnehmen oder spielen) und dürfen
+  ein buntes Bild mit Notenstück als Belohnung mitnehmen.  
+  Dazu gibt es wieder ein Puzzlestück.
+
+→ Danach: Foto der Eisenbahnskulptur als letzter Ort.
+
+### 🚂 Ziel: Eisenbahnskulptur
+
+**Erzählertext:**  
+Flitzi wartet hier auf die Kinder. Er hat Lunas Regenbogenbiegezange gefunden
+und bringt sie zurück -- aber er braucht Hilfe beim Zusammensetzen des
+Regenbogens.
+
+**Aufgabe (Finale):**  
+Die Kinder setzen die Puzzlestücke zusammen und legen damit einen kleinen
+Regenbogen (z. B. auf eine vorbereitete Vorlage).  
+Danach: Ein Schatz! (z. B. Glitzersticker, Regenbogenarmbänder, kleine
+Einhornfiguren)
+
+## 🎉 Belohnung
+
+Luna Glitzerhuf erscheint (optional als kleine Puppe oder Plüschfigur) und
+bedankt sich bei den Kindern.  
+"Jetzt kann ich endlich wieder die Regenbögen biegen! Danke, ihr lieben
+Regenjäger!"
 
 ## Lizenzen
 
+* Einige Inhalte dieses Projekts wurden mithilfe von ChatGPT (OpenAI) erstellt.
 * Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 * Die Karte basiert auf [OpenStreetMap](https://www.openstreetmap.org/), lizenziert unter der [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/).
