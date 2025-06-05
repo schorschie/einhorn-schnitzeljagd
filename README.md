@@ -17,3 +17,8 @@ Eine Schnitzeljagd zum Thema Einhorn zum fünften Geburtstag meiner Tochter.
 ![Karte vom Stadtoval in Aalen](karte.png)
 
 ## Aufgaben
+
+## Lizenzen
+
+* Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
+* Die Karte basiert auf [OpenStreetMap](https://www.openstreetmap.org/), lizenziert unter der [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/).
