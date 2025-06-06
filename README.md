@@ -19,16 +19,28 @@ Eine Schnitzeljagd zum Thema Einhorn zum fünften Geburtstag meiner Tochter.
 ### 🔍 Start: Hausnummer 10
 
 **Erzählertext:**  
-Heute früh hat Luna Glitzerhuf geweint. Die Regenbogen am Himmel waren ganz
-schief! Luna hat ihre Regenbogenbiegezange verloren. Aber sie weiß nicht mehr,
-wo. Sie ist gestern spazieren gegangen und hat unterwegs viele bunte Dinge
-angeschaut. Jetzt braucht sie eure Hilfe! Flitzi, der Regenbogenfuchs, hat sich
-heimlich an Lunas Fersen geheftet – und euch Hinweise hinterlassen!
+Im tiefen Wald, da leben die Einhörner und verteilen das Glück über die Welt.
+Eines von ihnen ist Luna Glitzerhuf. Luna arbeitet als Regenbogenbiegerin in der
+Regenbogenwerkstatt. Luna ist ein sehr glückliches Einhorn, denn ihre Arbeit
+macht ihr riesigen Spaß und sie liebt es nach dem Regen in die Welt hinaus zu
+fliegen und für die Menschen die Regenbögen mit ihrer Regenbogenbiegezange schön
+rund zu biegen.
+
+Aber heute sind alle Regenbögen in der Welt schief und Luna hat zum ersten Mal
+in ihrem Leben geweint. Luna hat ihre Regenbogenbiegezangen verloren. Sie ist
+gestern mit Flitzi von einer Geburtstagsfeier nach Hause gegangen und hat
+unterwegs viele bunte Dinge angeschaut, weiß aber nicht mehr so genau was.
+
+Zum Glück hat Flitzi, der Regenbogenfuchs, ein etwas besseres Gedächtnis als
+Luna und euch Hinweise hinterlassen! Flitzi und Luna brauchen Eure Hilfe!
 
 **Aufgabe:**  
 Die Kinder finden die erste Regenbogenkarte mit einem großen Einhorn-Aufkleber
-und buntem Glitzerband. Auf der Rückseite ist ein Foto des nächsten Orts (die
-Popo-Skulptur) als Hinweis.
+und buntem Glitzerband. Auf der Rückseite ist ein sehr kleiner Ausschnitt des
+Popos der Radschläger-Skulptur als Hinweis.
+
+TODO: Ist das zu einfach, oder zu schwer? Wie könnte man unterstützen, wenn die
+Kinder es nicht vom Foto rausbekommen?
 
 ### 🐾 Station 1: Radschläger
 
