@@ -16,7 +16,7 @@ Eine Schnitzeljagd zum Thema Einhorn zum fünften Geburtstag meiner Tochter.
 
 ## 🦄 Aufgaben der Einhorn-Schnitzeljagd
 
-### 🔍 Start: Hausnummer 10
+### 🏠 Start: Hausnummer 10
 
 **Erzählertext:**  
 Im tiefen Wald, da leben die Einhörner und verteilen das Glück über die Welt.
@@ -32,15 +32,16 @@ gestern mit Flitzi von einer Geburtstagsfeier nach Hause gegangen und hat
 unterwegs viele bunte Dinge angeschaut, weiß aber nicht mehr so genau was.
 
 Zum Glück hat Flitzi, der Regenbogenfuchs, ein etwas besseres Gedächtnis als
-Luna und euch Hinweise hinterlassen! Flitzi und Luna brauchen Eure Hilfe!
+Luna und hat euch Hinweise hinterlassen! Flitzi und Luna brauchen Eure Hilfe!
 
 **Aufgabe:**  
 Die Kinder finden die erste Regenbogenkarte mit einem großen Einhorn-Aufkleber
 und buntem Glitzerband. Auf der Rückseite ist ein sehr kleiner Ausschnitt des
 Popos der Radschläger-Skulptur als Hinweis.
 
-TODO: Ist das zu einfach, oder zu schwer? Wie könnte man unterstützen, wenn die
-Kinder es nicht vom Foto rausbekommen?
+Sollten die Kinder mit dem Foto als Hinweis nicht klarkommen, dann bekommen sie
+einen etwas größeren Ausschnitt und schließlich ein Foto von der gesamten
+Statue.
 
 ### 🐾 Station 1: Radschläger
 
@@ -53,9 +54,7 @@ In einem kleinen Beutel oder Umschlag finden die Kinder eine Glitzerblume und
 ein Puzzlestück mit einem Teil eines Regenbogens.  
 → Danach bekommen sie ein neues Foto vom nächsten Ort: der Bach mit dem Steg.
 
----
-
-### 🌈 Station 2: Bach mit Steg
+### 🌉 Station 2: Bach mit Steg
 
 **Erzählertext:**  
 Flitzi schreibt: "Hier hat Luna ein Bad genommen! Vielleicht ist ihr da etwas
@@ -133,4 +132,6 @@ Regenjäger!"
 
 * Einige Inhalte dieses Projekts wurden mithilfe von ChatGPT (OpenAI) erstellt.
 * Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
-* Die Karte basiert auf [OpenStreetMap](https://www.openstreetmap.org/), lizenziert unter der [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/).
+* Die Karte basiert auf [OpenStreetMap](https://www.openstreetmap.org/),
+  lizenziert unter der [Open Database License
+  (ODbL)](https://opendatacommons.org/licenses/odbl/).
