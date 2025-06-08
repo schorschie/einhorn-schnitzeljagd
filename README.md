@@ -47,12 +47,22 @@ Statue.
 
 **Erzählertext:**  
 Flitzi schreibt: "Luna hat hier stehen bleiben müssen, weil sie so lachen
-musste! Aber sie hat dabei ihre Glitzerblume verloren."
+musste! Aber sie hat dabei ihre Glitzerrose verloren."
 
 **Aufgabe:**  
-In einem kleinen Beutel oder Umschlag finden die Kinder eine Glitzerblume und
-ein Puzzlestück mit einem Teil eines Regenbogens.  
-→ Danach bekommen sie ein neues Foto vom nächsten Ort: der Bach mit dem Steg.
+Magnetisch an die Statue befestigt finden die Kinder eine (künstliche) kleine
+Wasser-Glitzerrose. Flitzi sagt, ja jetzt erinnere ich mich, die Glitzerrose
+haben wir auf dem Heimweg gepflückt!
+
+TODO: Hier den Kindern erklären was denn eine Wasserrose ist und wie man diese
+erkennen kann. Vielleicht auch erklären wo diese üblicherweise wachsen.
+
+Wo könnte denn die Wasserrose hergekommen sein? Wo könnten Luna und Flitzi
+gewesen sein um eine Wasserblume zu pflücken? → Der Bach mit dem Steg.
+
+TODO: Vielleicht zu einfach? Was könnte man hier machen, dass die Kinder auch
+ein bisschen grübeln müssen? Generell sollte es aber an Station zwei auch nicht
+zu schwer sein, denn es kommen ja noch fünf.
 
 ### 🌉 Station 2: Bach mit Steg
 
